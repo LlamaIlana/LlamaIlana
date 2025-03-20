@@ -1,25 +1,13 @@
 ![Header Image](https://github.com/LlamaIlana/LlamaIlana/blob/main/ilana.png)
 
-**I recently completed an intensive web development bootcamp, where I honed my skills in building dynamic and responsive applications. I love working with React and Redux to create seamless user experiences, and I’m passionate about exploring databases to structure and manage data effectively. I also enjoy using frameworks like Tailwind CSS and Bootstrap to bring clean, modern designs to life. What excites me most about tech is the ability to create something out of nothing — turning ideas into reality through code.
+<!--## Hi there 👋
+
+I recently completed an intensive web development bootcamp, where I honed my skills in building dynamic and responsive applications. I love working with React and Redux to create seamless user experiences, and I’m passionate about exploring databases to structure and manage data effectively. I also enjoy using frameworks like Tailwind CSS and Bootstrap to bring clean, modern designs to life. What excites me most about tech is the ability to create something out of nothing — turning ideas into reality through code.
 
 - 🔭 I’m currently working on developing my skills by creating a new application every week to continue learning. You only get better by practicing… and then practicing some more!
 - 🌱 I’m currently looking to learn more about NoSQL, APIs, and exploring more creative CSS frameworks.
-- 📫 How to reach me: Feel free to pop me an email at ilanao89@gmail.com — I’d love to connect!
+- 📫 How to reach me: Feel free to pop me an email at ilanao89@gmail.com — I’d love to connect!-->
 
 
-## Hi there 👋
 
-<!--
-**LlamaIlana/LlamaIlana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -1,4 +1,4 @@
-![Header Image](https://github.com/LlamaIlana/LlamaIlana/blob/main/Ilana De Beer.png)
+![Header Image](https://github.com/LlamaIlana/LlamaIlana/blob/main/IlanaDeBeer.png)
 
 
 

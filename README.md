@@ -1,3 +1,10 @@
+![Header Image](https://github.com/LlamaIlana/LlamaIlana/blob/main/Ilana De Beer.png)
+
+
+
+
+
+
 ## Hi there 👋
 
 <!--
